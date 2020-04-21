@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "adventurecraft:blocks/drtfhftft",
+    "particle": "adventurecraft:blocks/drtfhftft"
+  }
+}

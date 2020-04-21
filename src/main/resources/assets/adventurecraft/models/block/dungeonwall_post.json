@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "adventurecraft:blocks/drtfhftft",
+    "particle": "adventurecraft:blocks/drtfhftft"
+  }
+}

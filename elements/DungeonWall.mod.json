@@ -11,7 +11,8 @@
     "renderType": 11,
     "customModelName": "Single texture",
     "rotationMode": 0,
-    "hasTransparency": false,
+    "blockBase": "Wall",
+    "hasTransparency": true,
     "transparencyType": "SOLID",
     "mx": 0.0,
     "my": 0.0,
@@ -20,7 +21,7 @@
     "My": 1.0,
     "Mz": 1.0,
     "faceShape": "SOLID",
-    "name": "Dungeon Brick",
+    "name": "Dungeon Wall",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -28,7 +29,7 @@
     "creativeTab": {
       "value": "BUILDING_BLOCKS"
     },
-    "destroyTool": "pickaxe",
+    "destroyTool": "Not specified",
     "affectedBySilkTouch": true,
     "customDrop": {
       "value": ""
@@ -38,7 +39,7 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
-    "lightOpacity": 255,
+    "lightOpacity": 0,
     "material": {
       "value": "ROCK"
     },
@@ -80,9 +81,9 @@
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [],
-    "frequencyPerChunks": 1,
-    "frequencyOnChunk": 1,
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 0
+    "maxGenerateHeight": 64
   }
 }
