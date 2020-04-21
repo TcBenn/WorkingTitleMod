@@ -16,22 +16,6 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
-    },
-    {
-      "name": "DungeonBiome",
-      "type": "biome",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Dungeon",
-      "type": "biome",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
     }
   ],
   "variable_elements": [],
