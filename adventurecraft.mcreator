@@ -16,12 +16,21 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Dungeon",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "biome.adventurecraft.dungeon": "Dungeon",
       "block.adventurecraft.dungeonbrick": "Dungeon Brick",
       "block.adventurecraft.dungeonwall": "Dungeon Wall"
     }
